@@ -1,0 +1,16 @@
+logs
+project/project
+target/
+tools
+tmp
+bin
+.settings
+.idea/
+.idea_modules/
+.classpath
+.history
+.project
+.cache
+persistanceJs.ipr
+persistanceJs.iml
+persistanceJs.iws
